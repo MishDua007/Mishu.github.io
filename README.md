@@ -40,7 +40,7 @@ Features:<br>
 Add, update, delete student data <br>
 Search functionality <br>
 File handling <br>
-🔗 GitHub Repo: https://github.com/yourusername/project-link <br>
+🔗 [GitHub Repo:] (https://github.com/yourusername/project-link) <br>
 
 🔹 Personal Portfolio Website <br>
 
