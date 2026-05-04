@@ -51,6 +51,6 @@ Mobile responsive layout <br>
 
 
 ###  📫 Contact Me
-📧 Email: mishujannah007@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/mishujannah
+📧 Email: mishujannah007@gmail.com  <br>
+🔗 LinkedIn: https://linkedin.com/in/mishujannah  <br>
 💻 GitHub: [https://github.com/mishuDua007](https://github.com/MishDua007)
