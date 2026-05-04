@@ -40,7 +40,6 @@ Features:<br>
 Add, update, delete student data <br>
 Search functionality <br>
 File handling <br>
-🔗 GitHub Repo: ([https://mishdua007.github.io/Mishu.github.io/](https://mishdua007.github.io/Mishu.github.io/)) <br>
 
 <b>🔹 Personal Portfolio Website </b> <br>
 
@@ -50,8 +49,6 @@ Features: <br>
 Clean UI design  <br>
 Mobile responsive layout <br>
 
-🔗 Live Demo: https://yourusername.github.io <br>
-🔗 GitHub Repo: https://github.com/yourusername/portfolio <br>
 
 ###  📫 Contact Me
 📧 Email: mishujannah007@gmail.com
