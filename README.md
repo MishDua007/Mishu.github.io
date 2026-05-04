@@ -40,7 +40,6 @@ Features:<br>
 Add, update, delete student data <br>
 Search functionality <br>
 File handling <br>
-
 🔗 GitHub Repo: https://github.com/yourusername/project-link <br>
 
 🔹 Personal Portfolio Website <br>
@@ -48,7 +47,6 @@ File handling <br>
 📌 A responsive portfolio website to showcase projects  <br>
 Tech Used: HTML, CSS <br>
 Features: <br>
-
 Clean UI design  <br>
 Mobile responsive layout <br>
 
