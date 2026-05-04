@@ -19,21 +19,21 @@ Session: 2017 – 2018 <br>
 Group: Science<br>
 GPA: 5.00<br>
 
-### Technical Skills<br>
+### 🛠️Technical Skills  
 Programming Languages<br>
--C
--C++
--Python (add/remove based on your skills)<br>
+-C <br>
+-C++ <br>
+-Python <br>
 Web Development<br>
--HTML5
--CSS3
+-HTML5<br>
+-CSS3<br>
 -JavaScript (Basic)<br>
-Tools & Technologies
--Git & GitHub
--Visual Studio Code
+Tools & Technologies<br>
+-Git & GitHub<br>
+-Visual Studio Code<br>
 
 ### 💼 Projects 
-🔹Student Management System<br>
+🔹Student Management System <br>
 
 📌 Console-based project for managing student records<br>
 Features:<br>
@@ -41,4 +41,21 @@ Add, update, delete student data <br>
 Search functionality <br>
 File handling <br>
 
-🔗 GitHub Repo: https://github.com/yourusername/project-link
+🔗 GitHub Repo: https://github.com/yourusername/project-link <br>
+
+🔹 Personal Portfolio Website <br>
+
+📌 A responsive portfolio website to showcase projects  <br>
+Tech Used: HTML, CSS <br>
+Features: <br>
+
+Clean UI design  <br>
+Mobile responsive layout <br>
+
+🔗 Live Demo: https://yourusername.github.io <br>
+🔗 GitHub Repo: https://github.com/yourusername/portfolio <br>
+
+###  📫 Contact Me
+📧 Email: mishujannah007@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/mishujannah
+💻 GitHub: https://github.com/mishuDua007
